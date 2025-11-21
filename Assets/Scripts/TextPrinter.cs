@@ -61,6 +61,8 @@ public class TextPrinter : MonoBehaviour
         );
         textMesh.text = string.Empty;
     }
+
+    //If the player holds down E the text print speeds up
     void HandleTextSpeed() 
     {
         if (Input.GetKey(KeyCode.E)) 
