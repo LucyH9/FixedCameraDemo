@@ -1,0 +1,301 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.18f1 (d29bea25151d) revision 13802474'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Education' Language: 'en' Physical Memory: 32660 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/Bandit Game Studio/FixedCameraDemo
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+59427
+Successfully changed project path to: C:/Users/Bandit Game Studio/FixedCameraDemo
+C:/Users/Bandit Game Studio/FixedCameraDemo
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8508] Host "[IP] 129.108.79.64 [Port] 0 [Flags] 2 [Guid] 3404549078 [EditorId] 3404549078 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7CMUL8F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8508] Host "[IP] 129.108.79.64 [Port] 0 [Flags] 2 [Guid] 3404549078 [EditorId] 3404549078 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7CMUL8F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 18.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.18f1 (d29bea25151d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Bandit Game Studio/FixedCameraDemo/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   ATI
+    VRAM:     8150 MB
+    Driver:   32.0.21030.2001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010138 seconds.
+- Loaded All Assemblies, in  0.414 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.305 seconds
+Domain Reload Profiling: 717ms
+	BeginReloadAssembly (120ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (76ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (118ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (141ms)
+			TypeCache.Refresh (139ms)
+				TypeCache.ScanAssembly (126ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (306ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (242ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.834 seconds
+Refreshing native plugins compatible for Editor in 6.60 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.781 seconds
+Domain Reload Profiling: 1610ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (91ms)
+	LoadAllAssembliesAndSetupDomain (520ms)
+		LoadAssemblies (394ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (185ms)
+				TypeCache.ScanAssembly (171ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (782ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (590ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (88ms)
+			ProcessInitializeOnLoadAttributes (404ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 6.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5530 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 86 unused Assets / (1.9 MB). Loaded Objects now: 5982.
+Memory consumption went from 253.0 MB to 251.1 MB.
+Total: 4.284200 ms (FindLiveObjects: 0.495500 ms CreateObjectMapping: 0.172800 ms MarkObjects: 3.114200 ms  DeleteObjects: 0.500500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 62b5816608c3102f162a1797e29626cf -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 977575.082872 seconds.
+  path: Assets/Almgp_unity5_ice/textures/fractal/Cell_fractal_leaf3.tga
+  artifactKey: Guid(5cfd59f5b6870264499e04d0b2ce6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/textures/fractal/Cell_fractal_leaf3.tga using Guid(5cfd59f5b6870264499e04d0b2ce6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cb5a5041a81b4973166c04062ee466') in 0.090840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.073447 seconds.
+  path: Assets/Almgp_unity5_ice/textures/gradient/gradient 1.png
+  artifactKey: Guid(cadf7f2ee8d7db442adb63bd3baff36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/textures/gradient/gradient 1.png using Guid(cadf7f2ee8d7db442adb63bd3baff36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3919d2332fb46cd8138388c7430ef4d4') in 0.045806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.166246 seconds.
+  path: Assets/Almgp_unity5_ice/textures/grass/grass_diff2.tga
+  artifactKey: Guid(6510d8c4f9874c44fab1b357f846fb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/textures/grass/grass_diff2.tga using Guid(6510d8c4f9874c44fab1b357f846fb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3787446de30dd5603323f4de1926c972') in 0.029895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Almgp_unity5_ice/textures/grass/grass_normal 1.tga
+  artifactKey: Guid(848b02aa303c3c04ca3ce234e5ef7e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/textures/grass/grass_normal 1.tga using Guid(848b02aa303c3c04ca3ce234e5ef7e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e26ef0f7bcbc0ce5bfd834c6f649d2') in 0.025937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 38.162095 seconds.
+  path: Assets/Almgp_unity5_ice/materials/fx/particle.mat
+  artifactKey: Guid(11e330ca57bb4f44bb4e026df47a6a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/fx/particle.mat using Guid(11e330ca57bb4f44bb4e026df47a6a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2aca2dcfc65f0b8ea08b29ed098665') in 0.282188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.905900 seconds.
+  path: Assets/Almgp_unity5_ice/materials/metal/allum 2.mat
+  artifactKey: Guid(31a19ec98ea0bd14d85b2ed44ac63912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/metal/allum 2.mat using Guid(31a19ec98ea0bd14d85b2ed44ac63912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a6cb7e8bfc2eeacf72baeb0e461c3d') in 1.202941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Almgp_unity5_ice/materials/peble/4.mat
+  artifactKey: Guid(4775005e2f7536d418b0d08d90bd8cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/peble/4.mat using Guid(4775005e2f7536d418b0d08d90bd8cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79cf50fc43d2406252b2fddda7c1068') in 1.963192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 23.061450 seconds.
+  path: Assets/Almgp_unity5_ice/materials/sky/sky_sphere 1.mat
+  artifactKey: Guid(7698b1808da9cff49ac6fad11ae10706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/sky/sky_sphere 1.mat using Guid(7698b1808da9cff49ac6fad11ae10706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c45e5d2ba09055d49831ad03b161c5') in 0.039091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.894287 seconds.
+  path: Assets/Almgp_unity5_ice/materials/stone/mossy_red 1.mat
+  artifactKey: Guid(f5ddb0337d6f7324b8bfe82f17e8b0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/stone/mossy_red 1.mat using Guid(f5ddb0337d6f7324b8bfe82f17e8b0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8955252186f4587a6a032f3d3843db85') in 0.058458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.118655 seconds.
+  path: Assets/Almgp_unity5_ice/materials/tree/Cell_fractal_wood 1.mat
+  artifactKey: Guid(6ebe70f90a947f848b7140ace24fd7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/tree/Cell_fractal_wood 1.mat using Guid(6ebe70f90a947f848b7140ace24fd7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ae40c01a2727831a8fca8b15d271db') in 0.080630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 37.980785 seconds.
+  path: Assets/Almgp_unity5_ice/materials/peble/5.mat
+  artifactKey: Guid(223dbd1245144c044b22d655dbc32f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/materials/peble/5.mat using Guid(223dbd1245144c044b22d655dbc32f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef3b6032a8d47e6502f3e6813e63048') in 0.042171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 9.709103 seconds.
+  path: Assets/Almgp_unity5_ice/prefabs/foliage/leaf/leaf_orange_lod0.prefab
+  artifactKey: Guid(75e797acbccd8664a81365c669cbfad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/prefabs/foliage/leaf/leaf_orange_lod0.prefab using Guid(75e797acbccd8664a81365c669cbfad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66252607713d05bb6af89323277b1320') in 0.086138 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
+========================================================================
+Received Import Request.
+  Time since last request: 1.133995 seconds.
+  path: Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_2 .prefab
+  artifactKey: Guid(13e5fb8c7b7e0654ea7ddf32e8774e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_2 .prefab using Guid(13e5fb8c7b7e0654ea7ddf32e8774e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c9b274a385fb88b2a7b5ca1853ddad') in 0.032491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_6.prefab
+  artifactKey: Guid(df3aaf5f470c3214888be1b9f30b392d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_6.prefab using Guid(df3aaf5f470c3214888be1b9f30b392d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0badae9426a7cec14f21781a697d29') in 0.028506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_4.prefab
+  artifactKey: Guid(54bf9a6e69f3db04e8a0e5d3f2482ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Almgp_unity5_ice/prefabs/foliage/leaf/effect/Leaf_fall_4.prefab using Guid(54bf9a6e69f3db04e8a0e5d3f2482ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcdc0c7e0e23dabe5a372c4b71d15e43') in 0.025943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
